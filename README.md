@@ -1,1 +1,1 @@
-# Quiz-estados-e-capitasi
+# Quiz-estados-e-capitais

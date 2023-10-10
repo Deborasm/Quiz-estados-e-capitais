@@ -17,3 +17,5 @@ Responda às perguntas do quiz e veja sua pontuação.
 Personalização
 Você pode personalizar as perguntas e respostas editando o array no arquivo JavaScript.
 Os estilos visuais podem ser ajustados no arquivo CSS.
+
+https://deborasm.github.io/Quiz-estados-e-capitais/
